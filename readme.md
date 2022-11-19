@@ -21,3 +21,11 @@
 - 写格言
 - 研究其他的mastodon实例，着手使用一些有关这个SNS的工具
 - 找寻曾经见过的一个now模板，我记得之前阅读博文时看过一个now模板来着，用于记录目前的状况，不过找不到了……实在不行用那个TailWindCSS做的也可以
+- 研究https://nownownow.com/
+- 使用notebox构建数字花园，维护notebox
+- 在dev社区活动
+- 阅读从awesome-newsletter订阅的邮件，主要是技术邮件和工具版本更新的通知
+- 给笔友回信
+- 研究gitter的使用和在博客页面添加gitter聊天室按钮，在线即时通讯
+- 研究Notion新出的AI，19日收到了notion官方的邮件，加入alpha体验
+- 在木吧更文
